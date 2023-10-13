@@ -1,0 +1,3 @@
+[submodule "codecrafters-bittorrent-rust"]
+	path = codecrafters-bittorrent-rust
+	url = https://git.codecrafters.io/eb3ff9977fadb47a
